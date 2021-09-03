@@ -1,0 +1,120 @@
+header > div:first-child {
+    float: left;
+}
+h2{
+    font-size: 40px;
+    margin-bottom: -21px;
+}
+p{
+   color: rgb(151, 151, 151); 
+}
+.print{
+    float: right;
+    margin: 5px;
+}
+.vane{
+    display: block;
+}
+#lastDiv * {
+
+}
+header{
+    margin: 3%;
+    margin-left: 23%;
+    margin-right: 17%;
+    width:60%;
+ 
+    height: 100px;
+}
+h1{
+margin-right: -3%;
+margin-top: -7%;
+margin-bottom: 0%;
+float: right;
+font-family:'Brush Script MT', cursive;
+font-size: 250%;
+}
+form * {
+    /* display: block; */
+}
+.left {
+    float: left;
+    margin: 0px;
+}
+input{
+ width: 15%;
+ display: inline-block;
+}
+label{
+    width: 25%;
+    display: block;
+    float: left;
+    
+}
+.rigtLable{
+    margin-left: 47%;
+    width: 34%;
+position: absolute;
+right: 5%;
+margin-top: -111px;
+}
+
+.right  {
+    float: right;  
+    margin-top: -108px;
+
+}
+form{
+    margin-top: 50px;
+    background-image: url("/list-bg.png");
+}
+header > div:first-child > p  {
+margin-top: 0%;
+margin-left: 43%;
+font-size: 10px;
+position: absolute;
+  top: 80px;
+  left: -16%;
+  color: rgb(151, 151, 151);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header > div:nth-child(2){
+    float: right;
+
+}
+
+header > div:last-child{
+height: 2%;
+width: 60%;
+
+position: absolute;
+  top: 130px;
+  right: 18%;
+  border-top: 2px groove rgb(201, 201, 201);
+
+
+}
+
+main *{
+    margin-left: 9%;
+    margin-right: 9%;
+}
+#vanPic , .vanText , button{
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: inline-block;
+    display: inline-block;
+}
+footer{
+   text-align: center;
+}
+#vanPic{
+    margin-top: 20px;
+}
+button{
+    background-color: rgb(173, 49, 0);
+    border: none;
+    height: 40px;
+}
